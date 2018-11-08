@@ -1,0 +1,88 @@
+Soldier-of-Fortune
+
+#Preface
+Max is a soldier for the allied forces, At the war in the battlefield of Berlin,
+He was mortally wounded in the battlefield and lost his consciousness. The allied army retreats.
+He is presumed dead by his team and is left to dead on the battlefield. 
+When he regains consciousness ,He is finds himself on the hospital bed. 
+But to his dismay it was the enemy basecamp, the head of the nazi bootcamp saved him thinking he was some 
+commanding officer of the allied forces and thought of extracting intel from him once max regained his 
+conscious.
+
+#Intro
+Max: Where am I?
+Nurse: came down your safe( in a german english accent)
+Max: Who are you? Why do you speak funny?
+Nurse: Me, speaking funny!! Why sir it is you who is the odd one out here.
+	you are in the nazi bootcamp set up here in berlin.
+
+(Max quickly understood what was going on ,But before he could react he was knocked out and finds himself in an old room)
+
+#The story begins
+The general: Wake up, sleep is not a luxury which you can find here.
+Max: Who are you?
+(Wacks Max using a wip)
+The general: Know who is above you, you dirty insect.
+		i made sure the nurse saved you just enough so that you could regain your senses.
+		Now tell me what you Stupid people where up to at Berlin?
+		Why did you attack here at all time, why not somewhere at the coast!!
+Max: I would kill myself!!, before i betray my country.
+
+( Before the general could say anything a sub-lieutanant comes and whispers something)
+
+The general: Fine i'll be on my way make sure you keep an eye on him.
+
+(the player takes over Max's character from now, He has to figure out a way to escape the bootcamp
+and reach out to his allies)
+
+#Room scenario
+its a pretty old room ,with a small window on the east of Max,
+the room is a cube, there is a desk behind Max which may some intel,
+the room is lit by an old dingy bulb which is hung from a wire.
+The door is guarded by gaurds from the out side.
+The colour of the room is some what grey with a hint of white.
+
+#Max
+he is a skilled soldier who excels in close combat and is an excellent shooter.
+He always carries a knife with him and a small double edge blade with a small hole in his skin.
+
+#Outside the room 
+The old room's door is gaurded my two guards.
+there are a total of only 30 soldier in the bootcamp as most of them have been called up 
+the general.
+among the 30,5 are newbies, 20 of them are normal soldiers,
+5 are combat veterans.
+The old room is in fact a small house which the player realises after he escapes from it.
+
+#position
+The house is located in the middle of the base camp.
+The medic base
+ it's North-west to the house ,
+ the medic is basically a tent (there is only one nurse and 3 veteran soldiers in the tent)
+The supply room
+ It's to the south of the old house
+ its stocks a full case armour, an akm, 2-3 hand grenades and a handgun.
+ since most of the weapons are taken by the soldiers
+The base
+ Its a large 5 storey building which occupies around 3/4th of the bootcamp
+ the player can find a vehicle here, using which he can escape from the bootcamp
+ 
+ the basecamp is guarded my 20 soldiers who are placed 5 per floor,
+ There are 2 veterans on the top floor along with the general
+ The base where the jeep lies is gaurded by just 3 newbie soldiers.
+
+#Win-Lose
+The player wins when he successfully escapes the camp with the jeep.
+He loses if he tries to fight the enemies in the base.
+He loses if he fights unarmed against the veterans in the medic base.
+
+#Easter-egg
+The player may go to the supply room for some equipments
+the medic base and the desk at the old house have some intel on the 
+Nazi's which Awards the player 
+Well played ( finding one item )
+Excellent Game ( finding both the items )
+
+
+ 
+
