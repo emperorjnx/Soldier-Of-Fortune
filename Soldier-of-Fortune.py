@@ -1,24 +1,6 @@
 #setting up the game
-<<<<<<< HEAD
 help=open('help.txt','r')
      
-=======
-help='Welcome to the help section of SOF.\
-      The help section will introduce you to come basic commands in the game\
-      use - uses the item with you to perform some action\
-      front or up - makes your character move forward\
-      back or down - makes him move back\
-      left - makes him move left\
-      right - makes him move right\
-      look - makes him look around\
-      exit - exit the game\
-      action - puts him in combat mode\
-      During action you have only yes or no options\
-      enjoy the game'
-
-help1 = open('help.txt','r')
->>>>>>> c619fbdd86776d4170b8aae779e9944b9f7902d9
-
 import sys
 print(format('Welcome to the Soldier of Fortune','^20'))
 
@@ -53,7 +35,7 @@ conscious.')
 
 while end==0:
     move=input('\nEnter your move: ')
-    move.lower()
+    move=move.lower()
     if 'help' in move:
         print()
         print(help.read())
