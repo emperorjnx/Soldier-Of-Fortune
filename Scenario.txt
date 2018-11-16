@@ -1,88 +1,71 @@
-Soldier-of-Fortune
+This is a new world, a world filled with all kinds of evil.
+ In this world you will be posed with choices. Read, listen and watch carefully because if you choose wrong you might just die and there  will be no coming back. So think wisely and live to fight another day.
+Player
+You are the player named max Dunbar. You are a brave soldier fighting for his country. Once you start, there will be no going back.  Watch your step because you never know what will happen if you lose your way.
+Start
+“General- soldiers we are fighting for our lives, to exist and to win. Today will no longer be declared as an American holiday but as the day the world will be declared in one voice. We will not go quite into the night. We will not vanish without a fight. We are going to live and we are going to fight for our independence.”
+You step into the battle field. There will be bloodshed.
+Soldiers have been in the field for months now, yet there is no progress in the battle field for months. It’s up to you to save your country. Out there in the field you’ll have to watch your own back and collect ammo whenever you find. You make your way through the wave of dead bodies of your fellow countrymen and group up with your battalion. All of you go to front of the enemy line and then realise that their camp is empty and your crew scatters looking for clues for what they were looking for or where they all went. Then your fellow mate stepped on a land mine and yelled “ everybody stay where you are, the field is rigged to blow up “ By then you could hear screams of all sorts approaching from a distance. You start firing. As they came closer you realised they were not exactly human but by then your fellow mate had stepped off the mine and the whole field started to set off one by one. You were the lucky one because you were furthest from the field.
+Now you are in a dark dungeon. It seems to be out of place but u have no were to hide, so you enter it . As soon as you enter you see that it goes on for some distance and you can hear a weird noise but it’s not scary. Then you can see a glowing mixture of black purple, blue with a bright yellow circle. You exclaim “it’s a portal!!!”. You wonder what to do now
+1.	Enter the portal
+2.	Go back in search of what happened in your field
+Outcome
+1.	You start flying inside and spinning out of control
+2.	You try to leave but the portal doesn’t let you leave and you get sucked into it and you start flying inside and spinning out of control.
 
-#Preface
-Max is a soldier for the allied forces, At the war in the battlefield of Berlin,
-He was mortally wounded in the battlefield and lost his consciousness. The allied army retreats.
-He is presumed dead by his team and is left to dead on the battlefield. 
-When he regains consciousness ,He is finds himself on the hospital bed. 
-But to his dismay it was the enemy basecamp, the head of the nazi bootcamp saved him thinking he was some 
-commanding officer of the allied forces and thought of extracting intel from him once max regained his 
-conscious.
+You see yourself appearing bit by bit and then you have no clue where you are and the portal behind you slowly vanishes. You try to get back to the battle field but it’s too late. The portal is gone.
+You are scared and you start to wonder where on earth you are. You look at your surroundings. It still looks a lot like earth but the sky is red and the land is cold. You start moving forward with you gun.
 
-#Intro
-Max: Where am I?
-Nurse: came down your safe( in a german english accent)
-Max: Who are you? Why do you speak funny?
-Nurse: Me, speaking funny!! Why sir it is you who is the odd one out here.
-	you are in the nazi bootcamp set up here in berlin.
+1.	You enter the hospital
+2.	Or you go on looking around the town
+output
+1.
+There seems to be a very familiar feel to this place. The one building  which is visible to you seems to be a big one made of cemented walls, old and scary. You knock on the door and no one opens the door. So you grip your gun and try to enter the building by breaking the door. It opens and has a creepy noise. You get inside to notice that its really haunted you notice that it seems to be an old hotel of some sort and you start calling and shouting looking for any sort of life existing and you make your way up the stairs. You walk in the corridor to see that it was in ruins, yet there seems to be a weird voice. The same one he heard just before his team was ambushed. He keeps his fire arm ready and a human like figure appears but this one is not all human he has 4 hands and 4 eyes and looks like he is in shape to take any one down
+1.	Talk to him and ask what he wants
+2.	Shoot him down
+output
+1.	He might have looked slightly human but he didn’t want much from you other than your dead body so when you see him running towards you shoot him down
+2.	You shoot him down
 
-(Max quickly understood what was going on ,But before he could react he was knocked out and finds himself in an old room)
+You realise that he is not the only one you shoot as many creatures like him walk towards you. You realise that you should rather just escape this place instead of wasting your ammo on them. You make your way towards the creepy stairs and then you fall down. You shout in pain and you know to stay alive u have to escape this place. So you crawl your way and realise that there are more than 2 or 3 of them approaching you. You shoot them to slow them down and find something big to jam the door from outside. As soon as you exited the room you realise the shouting stopped. That was really fishy because they could have broken the door down easily.
+2.
+You start walking into the town just to realise that its empty but the weird human lookalike creatures were everywhere. They would attack you only if they spotted you. They are strong but not intelligent. You keep trying to find a portal again as you want to get your way out of this hell. But there seems to be nothing in this town. You feel tired.
+1.	Go to a store and kill the creatures and eat them
+2.	Or just keep going on as long as you can
+Output
+1.	You meet one of them and try to cut open their flesh to feed on them. After eating him you go back to crusading through the town.
+2.	You just continue going through town .
+You find weapons in a particular part of the town and notice that there is blood but no body. Only weapons left behind. You could easily identify the make of the weapon. You notice a lot of weapons but you are smart enough to not go closer to a door that this path leads you to. You fill your ammo and then you look around the place . You enter the house through a broken window and realise those monsters were hiding behind the door setting a trap to kill you when you enter through the main door and then you throw a grenade and wait for 3 of them to die. As soon as it explodes you make sure that they are dead. You hears more of them approaching you and you kept on shooting them down. You have no choice but to move forward. You go to the attic and find ANOTHER NORMAL HUMAN BEING !!!  you are happy but you don’t let your guard down because you cannot trust anyone in a battle. He was injured but you could recognise him as one of your fellow soldiers Seth.
+1.	Scare him and shoot few blanks to make sure he is still you buddy Seth and interrogate him
+2.	Put down your weapon and then help him up
+Output
+1.	
+‘Bang bang bang’ shots fired who are you and what are you doing here. He replies “max is that you , are you serious I’m so glad to see you “. you drop your weapon and rush to hug him and make sure he is okay.
+2.
+You rush to his arms and tell “Seth how on earth is it that you are in a place like this. I fell into a portal and I’m stuck here” and he tells the same thing had happened to him so they decide to stick to each other.
 
-#The story begins
-The general: Wake up, sleep is not a luxury which you can find here.
-Max: Who are you?
-(Wacks Max using a wip)
-The general: Know who is above you, you dirty insect.
-		i made sure the nurse saved you just enough so that you could regain your senses.
-		Now tell me what you Stupid people where up to at Berlin?
-		Why did you attack here at all time, why not somewhere at the coast!!
-Max: I would kill myself!!, before i betray my country.
+Both of you give a summary of each other’s encounter with the creatures and he tells you “ they are all protecting this treasure that is held in the house behind this building” and Seth had been stuck for days and he was all out of ammo just hoping that someone will come and save him. They collect all the ammo that they can get and make their way to the front door. Guns blazing and firing. Hoping that finding the treasure will open a portal to go back home. There Seth is taking the lead in the battle ground and making your way through the house and you see a golden casket in a room. It brings happiness on both of your faces but suddenly Seth is holding a gun to your head now. He tells ”I deserve this treasure its all mine and your no one to stop me max.”
+1.	Take him down and attack him before he kills you
+2.	Put down your weapon and surrender
+Options
+1.you pull his weapon from him but in a battle between you and your best pal. He ends up shooting you and THE END FOR YOU   DEATH
+2.
+Seth tells you to put your weapon down. You tell Seth “you are not in your right mind. It’s fine I understand.”
+Seth opens the casket and touches what’s in it. He turns into the weird creature and attacks you. But you shoot him down and you’re in shock of what just happened. You see a portal open up. The very portal that led you to this hellish place. The happiness on your face was nothing like you felt before. You run into the portal thinking that it might vanish and this time there is a bright light. A light so bright that it made your eye hurt so you had to bring your hands up to cover them.
+You see normal humans with masks and then you realise that you’re tied to the bed and you have no clue what on earth were you doing.  You hear voice speaking “subject 88 is coming back to life “ . “quick call the general tell him we have finally found the treasure and we know how to retrieve it “. You look around and see that there is only one masked woman around you doing what looks like keeping track of your vitals. You also notice that you are on an operating table with all kind of wires connected to your head and you see a table where all surgical tools seem to be placed. You pick a scalpel and hide it behind you hand as you notice that all the people over here wore uniforms just like the enemies had on in the battle field.
+1.	You slit the nurses throat and then make an escape
+2.	You  try to talk to the nurse and understand the situation
+Output
+1.	You stab the nurse as she approaches you in the neck and she didn’t even have time to breath or shout out for help and you cut your ropes which was attached to your stomach to hold you down and you try to find your way out
+2.	You try talking to the nurse as she approaches you with a needle to inject you. You try to ask where you were and she told “it doesn’t matter any way. Now I’ll sedate you and they will just burn your body later.” You hold her hand and slit her throat and cut yourself lose from the bed .
 
-( Before the general could say anything a sub-lieutanant comes and whispers something)
-
-The general: Fine i'll be on my way make sure you keep an eye on him.
-
-(the player takes over Max's character from now, He has to figure out a way to escape the bootcamp
-and reach out to his allies)
-
-#Room scenario
-its a pretty old room ,with a small window on the east of Max,
-the room is a cube, there is a desk behind Max which may some intel,
-the room is lit by an old dingy bulb which is hung from a wire.
-The door is guarded by gaurds from the out side.
-The colour of the room is some what grey with a hint of white.
-
-#Max
-he is a skilled soldier who excels in close combat and is an excellent shooter.
-He always carries a knife with him and a small double edge blade with a small hole in his skin.
-
-#Outside the room 
-The old room's door is gaurded my two guards.
-there are a total of only 30 soldier in the bootcamp as most of them have been called up 
-the general.
-among the 30,5 are newbies, 20 of them are normal soldiers,
-5 are combat veterans.
-The old room is in fact a small house which the player realises after he escapes from it.
-
-#position
-The house is located in the middle of the base camp.
-The medic base
- it's North-west to the house ,
- the medic is basically a tent (there is only one nurse and 3 veteran soldiers in the tent)
-The supply room
- It's to the south of the old house
- its stocks a full case armour, an akm, 2-3 hand grenades and a handgun.
- since most of the weapons are taken by the soldiers
-The base
- Its a large 5 storey building which occupies around 3/4th of the bootcamp
- the player can find a vehicle here, using which he can escape from the bootcamp
- 
- the basecamp is guarded my 20 soldiers who are placed 5 per floor,
- There are 2 veterans on the top floor along with the general
- The base where the jeep lies is gaurded by just 3 newbie soldiers.
-
-#Win-Lose
-The player wins when he successfully escapes the camp with the jeep.
-He loses if he tries to fight the enemies in the base.
-He loses if he fights unarmed against the veterans in the medic base.
-
-#Easter-egg
-The player may go to the supply room for some equipments
-the medic base and the desk at the old house have some intel on the 
-Nazi's which Awards the player 
-Well played ( finding one item )
-Excellent Game ( finding both the items )
+In this place, which looks like a hospital or an old hotel where they were running crazy tests on people, you see that it has a main staircase but it is filled with guards. You then try to take a lowkey way of running out. You try to find a back entrance where you have lesser number of guards but as soon as you come out you set off an alarm by mistake and you realise that you have no weapon. You have guards coming after you and you look back and see that this cemented building was the very building you saw when you had entered the portal, the old hotel. You try to hide in the surrounding as by now, you know this town. You realise that the enemy were using your army to get the treasure of el-derado as they were putting your soldiers in the portal to find the hidden treasure. Now that you have showed them how they could get it. You had to stop them.
+But you need a crew. You needed your people. You make your way out through a secret tunnel. As soon as you reached the base camp, you let the general know what was happening to all your soldiers. The general thanked you for your service and then he asked you to take rest now as he could handle the rest.
+THE END
 
 
- 
+
+
+
+
 
