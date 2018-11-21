@@ -3,7 +3,7 @@ In this world you will be posed with choices.
 Read, listen and watch carefully because if you choose wrong you might just die and there  will be no coming back. 
 So think wisely and live to fight another day.
 
-Player
+Player info :-
 
 You are the player named Max Dunbar. 
 You are a brave soldier fighting for his country. 
@@ -12,12 +12,12 @@ Watch your step because you never know what will happen if you lose your way.
 
 Start
 
-“General- soldiers we are fighting for our lives, to exist and to win. Today will no longer be declared as an American holiday but as the day the world will be declared in one voice. We will not go quite into the night. We will not vanish without a fight. We are going to live and we are going to fight for our independence.”
+General :- "Soldiers we are fighting for our lives, to exist and to win. Today will no longer be declared as an American holiday but as the day the world will be declared in one voice. We will not go quite into the night. We will not vanish without a fight. We are going to live and we are going to fight for our independence."
 
 You step into the battle field. There was a lot of bloodshed.
 Soldiers have been in the field for months now, yet there is no progress in the battle field for months. 
-It’s up to you to save your country. 
-Out there in the field you’ll have to watch your own back and collect ammo whenever you find. 
+It's up to you to save your country. 
+Out there in the field you'll have to watch your own back and collect ammo whenever you find. 
 You make your way through the wave of dead bodies of your fellow countrymen and group up with your battalion. 
 All of you go to front of the enemy line and then realise that their camp is empty.
 Your crew scatters looking for clues for what they were looking for or where they all went. 
@@ -30,9 +30,9 @@ The whole field started to set off one by one.
 You were the lucky one because you were furthest from the field.
 Now you are in a dark dungeon. 
 It seems to be out of place but u have no were to hide, so you enter it. 
-As soon as you enter you see that it goes on for some distance and you can hear a weird noise but it’s not scary. 
+As soon as you enter you see that it goes on for some distance and you can hear a weird noise but it's not scary. 
 Then you can see a glowing mixture of black purple, blue with a bright yellow circle. 
-You exclaim “it’s a portal!!!”. 
+You exclaim "it's a portal!!!". 
 You wonder what to do now
 
 1.	Enter the portal
@@ -40,11 +40,11 @@ You wonder what to do now
 
 Outcome
 
-1.	You start flying inside and spinning out of control
-2.	You try to leave but the portal doesn’t let you leave and you get sucked into it and you start flying inside and spinning out of control.
+You enter the protal and start flying inside and spinning out of control
+You try to leave but the portal doesn't let you leave and you get sucked into it and you start flying inside and spinning out of control.
 
 You see yourself appearing bit by bit and then you have no clue where you are and the portal behind you slowly vanishes. 
-You try to get back to the battle field but it’s too late. The portal is gone.
+You try to get back to the battle field but it's too late. The portal is gone.
 You are scared and you start to wonder where on earth you are. 
 You look at your surroundings. 
 It still looks a lot like earth but you are dead sure this was not Earth. 
@@ -66,7 +66,7 @@ You get inside to notice that its really haunted, you notice that it seems to be
 You start calling and shouting looking for any sort of life existing and you make your way up the stairs. 
 You walk in the corridor to see that it was in ruins, yet there seems to be a weird voice. 
 The same one he heard just before his team was ambushed. 
-He keeps his fire arm ready and a human like figure appears but this one is not all human he has 4 hands and 4 eyes.
+you keep your fire arm ready and a human like figure appears but this one is not all human he has 4 hands and 4 eyes.
 Looked like he is in shape to take any one down.
 
 2.
@@ -80,7 +80,7 @@ You get inside to notice that its really haunted, you notice that it seems to be
 You start calling and shouting looking for any sort of life existing and you make your way up the stairs. 
 You walk in the corridor to see that it was in ruins, yet there seems to be a weird voice. 
 The same one he heard just before his team was ambushed. 
-He keeps his fire arm ready and a human like figure appears but this one is not all human he has 4 hands and 4 eyes.
+You keep your fire arm ready and a human like figure appears but this one is not all human he has 4 hands and 4 eyes.
 Looked like he is in shape to take any one down.
 
 
@@ -88,7 +88,7 @@ Looked like he is in shape to take any one down.
 2.	Shoot him down
 
 output-1
-1.	He might have looked slightly human but he didn’t want much.
+1.	He might have looked slightly human but he didn't want much.
 	Other than your dead body so when you see him running towards you shoot him down.
 
 You realise that he is not the only one!! 
@@ -103,7 +103,7 @@ That was really fishy because they could have broken the door down easily.
 You wonder what is happening.
 
 1. try to go out
-2. stay in the house
+2. stay in the hospital
 
 1.
 
@@ -123,7 +123,7 @@ You start walking into the town just to realise that its empty but the weird hum
 They would attack you only if they spotted you. 
 They are strong but not intelligent. 
 You keep trying to find a portal again as you want to get your way out of this hell. 
-But there seems to be nothing in this town. 
+But there seems to be nothing in this town.  
 You feel tired.
 
 1.	Go to a store and kill the creatures and eat them
@@ -150,26 +150,26 @@ As soon as it explodes you make sure that they are dead.
 You hears more of them approaching you and you kept on shooting them down. 
 You have no choice but to move forward. 
 You go to the attic and find ANOTHER NORMAL HUMAN BEING !!!  
-You are happy but you don’t let your guard down because you cannot trust anyone in a battle. 
+You are happy but you don't let your guard down because you cannot trust anyone in a battle. 
 He was injured but you could recognise him as one of your fellow soldiers 'Seth'.
 
-1.	Scare him and shoot few blanks to make sure he is still you buddy Seth and interrogate him
-2.	Put down your weapon and then help him up
+	1.	Scare him and shoot few blanks to make sure he is still you buddy Seth and interrogate him
+	2.	Put down your weapon and then help him up
 
-Output
-1.	
-‘Bang bang bang’ shots fired.
-‘Who are you?what are you doing here??’. 
-He replies “Max is that you , are you serious I’m so glad to see you’’. 
-You drop your weapon and rush to hug him and make sure he is okay.
+	Output
+	1.	
+	'Bang bang bang' shots fired.
+	'Who are you?what are you doing here??'. 
+	He replies "Max is that you , are you serious I'm so glad to see you". 
+	You drop your weapon and rush to hug him and make sure he is okay.
 
-2.
-You rush to his arms and tell “Seth how on earth is it that you are in a place like this??’’. 
-Seth :- “I fell into a portal and I’m stuck here” and he tells the same thing had happened to him.
-You decide to stick to each other.
+	2.
+	You rush to his arms and tell "Seth how on earth is it that you are in a place like this??". 
+	Seth :- "I fell into a portal and I'm stuck here" and he tells the same thing had happened to him.
+	You decide to stick to each other.
 
-Both of you give a summary of each other’s encounter with the creatures and he tells you
-“ they are all protecting this treasure that is held in the house behind this building” 
+Both of you give a summary of each other's encounter with the creatures and he tells you
+" they are all protecting this treasure that is held in the house behind this building" 
 and 
 Seth had been stuck for days and he was all out of ammo just hoping that someone will come and save him. 
 They collect all the ammo that they can get and make their way to the front door. 
@@ -178,7 +178,7 @@ Hoping that finding the treasure will open a portal to go back home.
 Seth is taking the lead in the battle ground and you make your way through the house and you see a golden casket in a room.
 
 It brings happiness on both of your faces but suddenly Seth is holding a gun to your head now. 
-He tells “I deserve this treasure its all mine and your no one to stop me Max”
+He tells "I deserve this treasure its all mine and your no one to stop me Max"
 
 1.	Take him down and attack him before he kills you
 2.	Put down your weapon and surrender
@@ -186,33 +186,33 @@ He tells “I deserve this treasure its all mine and your no one to stop me Max�
 Options
 
 1.
-you pull his weapon from him but in a battle between you and your best pal. 
+you pull his weapon from him but in the battle between you and your best pal. 
 Both of you get engaged in a fist fight.
-But you forget Seth was a combat veteran.
+You forgot Seth was a combat veteran.
 He pushes you.
 Takes your gun.
 He ends up shooting you.
 You were shot in the stomach.
-Seth : “I am sorry Max it had to end like this!!”
+Seth : "I am sorry Max it had to end like this!!"
 THE END
 
 2.
 Seth tells you to put your weapon down. 
-You tell Seth “you are not in your right mind. It’s fine I understand.”
-Seth opens the casket and touches what’s in it. 
+You tell Seth "you are not in your right mind. It's fine I understand."
+Seth opens the casket and touches what's in it. 
 He turns into the weird creature and attacks you. 
-But you shoot him down.
-You’re in shock of what just happened. 
+You shoot him down.
+You're in shock of what just happened. 
 You see a portal open up. 
 The very portal that led you to this hellish place. 
 The happiness on your face was nothing like you felt before. 
 You run into the portal thinking that it might vanish and this time there is a bright light. 
 A light so bright that it made your eye hurt so you had to bring your hands up to cover them.
 
-You see normal humans with masks and then you realise that you’re tied to the bed. 
+You see normal humans with masks and then you realise that you're tied to the bed. 
 You have no clue what on earth were you doing.  
-You hear voice speaking “subject 88 is coming back to life ”.
-“quick call the general tell him we have finally found the treasure and we know how to retrieve it ”.
+You hear voice speaking "subject 88 is coming back to life ".
+"quick call the general tell him we have finally found the treasure and we know how to retrieve it ".
 You look around and see that there is only one masked woman around you doing what looks like keeping track of your vitals.
 You also notice that you are on an operating table with all kind of wires connected to your head. 
 You see a table where all surgical tools seem to be placed. 
@@ -224,12 +224,12 @@ You notice that all the people over here wore uniforms just like the enemies had
 
 Output
 1.	
-You stab the nurse as she approaches you in the neck and she didn’t even have time to breath or shout out for help.
+You stab the nurse as she approaches you in the neck and she didn't even have time to breath or shout out for help.
 You cut your ropes which was attached to your stomach to hold you down and you try to find your way out
 
 2.	
 You try talking to the nurse as she approaches you with a needle to inject you. 
-You try to ask where you were and she told “it doesn’t matter any way. Now I’ll sedate you and they will just burn your body later.” 
+You try to ask where you were and she told "it doesn't matter any way. Now I'll sedate you and they will just burn your body later." 
 You hold her hand and slit her throat and cut yourself lose from the bed .
 
 In this place, which looks like a hospital or an old hotel where they were running crazy tests on people,.
@@ -245,7 +245,7 @@ As they were putting your soldiers in the portal to find the hidden treasure.
 Now that you have showed them how they could get it. 
 You had to stop them.
 
-But you need a crew. 
+You need a crew. 
 You needed your people. 
 You make your way out through a secret tunnel ,which you found in the town.
 As soon as you reached the base camp, you let the general know what was happening to all your soldiers. 
