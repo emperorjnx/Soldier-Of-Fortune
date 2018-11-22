@@ -13,5 +13,5 @@ Note: All coding is done using python.
 
 Note:
 You need opencv installed to run this game
-anaconda installation
+anaconda installation:-
 conda install -c conda-forge opencv
