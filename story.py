@@ -9,11 +9,15 @@ with open('Scenario.txt','r') as scene:
 story1 = story[16:36]
 
 def s1():
+    f.audioplayer('scene-1')
     global story1
     global records
     move=input('Do you want to enter the battle field\n')
     if 'y' in move:
         print()
+        f.slow_type('Playing a clip')
+        f.play('droping in the field')
+        f.audioplayer('scene-1')
         for i in range(0,4):
             f.slow_type(story1[i])
         print()
@@ -24,7 +28,12 @@ def s1():
             for i in range(4,14):
                 f.slow_type(story1[i])
             print()
+            f.slow_type('Playing a clip')
+            f.play('intro')
+            f.slow_type('You somehow survive')
             time.sleep(2)
+            f.play('intro 2')
+            f.audioplayer('scene-1')
             for i in range(14,20):
                 f.slow_type(story1[i])
             print()
@@ -41,14 +50,19 @@ def s1():
             for i in range(4,14):
                 f.slow_type(story1[i])
             print()
+            f.slow_type('Playing a clip')
+            f.play('intro')
+            f.slow_type('You somehow survive')
             time.sleep(2)
+            f.play('intro 2')
+            f.audioplayer('scene-1')
             for i in range(14,20):
                 f.slow_type(story1[i])
             print()
         else:
-            f.slow_type('You feel that going to your battalion is not safe and you venture alone')
-            f.slow_type('By mistake you step on a mine')
-            f.slow_type('YOU DIE!!',0.25)
+            f.slow_type('\nYou feel that going to your battalion is not safe and you venture alone\n')
+            f.slow_type('By mistake you step on a mine\n')
+            f.slow_type('YOU DIE!!\n',0.25)
             f.slow_type('THE END',0.25)
             sys.exit()
     records.write('s1')
@@ -60,6 +74,9 @@ def s1():
 story2 = story[45:84]
 
 def s2():
+    f.slow_type('Playing a clip')
+    f.play('portal')
+    f.audioplayer('scene-2')
     global story2
     global records
     for i in range(0,3):
@@ -79,6 +96,9 @@ def s2():
         if count>4:
             print('*Try looking around*')
         move = input('What will you do?\n')
+    f.slow_type('Playing a clip')
+    f.play('new world')
+    f.audioplayer('scene-2')
     for i in range(3,6):
         f.slow_type(story2[i])
     time.sleep(2)
@@ -101,10 +121,12 @@ def s2():
             f.slow_type(story2[i])
         print('How will you get in??')
         print('*Hint you have your gun with you*')
-        move=''
+        move=input()
         while 'gun' not in move:
-            for i in range(31,39):
-                f.slow_type(story2[i])
+            print('Can\'t do that')
+            move=input('Think of a solution:-\n')    
+        for i in range(31,39):
+            f.slow_type(story2[i])    
     print('What will you do??')
     f.slow_type('...',1)
     records.write('s2')
@@ -114,6 +136,9 @@ def s2():
 story3 = story[93:119]
 
 def s3():
+    f.slow_type('Playing a clip')
+    f.play('first shoot')
+    f.audioplayer('scene-3')
     global story3
     global records
     for i in range(0,3):
@@ -121,10 +146,13 @@ def s3():
     print('\nDo you want to continue??\n')
     move=input()
     if 'yes' in move:
-        f.slow_type('You evetually run out of ammo')
-        f.slow_type('The aliens kill you')
-        f.slow_type('YOU DIE!!',0.3)
-        f.slow_type('THE END')
+        f.slow_type('\nYou evetually run out of ammo\n')
+        f.slow_type('The aliens kill you\n')
+        f.slow_type('Playing a clip')
+        f.play('death outside')
+        time.sleep(2)
+        f.slow_type('YOU DIE!!\n',0.3)
+        f.slow_type('THE END\n')
         sys.exit()
     else:
         for i in range(3,10):
@@ -134,9 +162,14 @@ def s3():
     print('\n1. Try to go out  \n2. stay in the hospital')
     move=input()
     if 'stay' in move or '2' in move:
-        for i in range(20,26):
+        for i in range(20,25):
             f.slow_type(story3[i])
-            sys.exit()
+        f.slow_type('Playing a clip')
+        f.play('death in house')
+        time.sleep(2)
+        f.slow_type('THE END',0.3)
+        sys.exit()
+        
     else:
         f.slow_type('You finally decide to make an effort to find your fellow mate\'s')
     records.write('s3')
@@ -147,6 +180,7 @@ def s3():
 story4 = story[121:169]
 
 def s4():
+    f.audioplayer('scene-4')
     global story4
     global records
     for i in range(0,6):
@@ -179,6 +213,8 @@ def s4():
     else:
         for i in range(45,48):
             f.slow_type(story4[i])
+    f.slow_type('Playing a clip')
+    f.play('rescue scene')
     records.write('s4')
     f.slow_type('....',1)
     f.clearscreen()
@@ -187,9 +223,15 @@ def s4():
 story5 = story[170:210]
 
 def s5():
+    f.audioplayer('scene-5')
     global story5
     global records
-    for i in range(0,11):
+    for i in range(0,9):
+        f.slow_type(story5[i])
+    f.slow_type('playing a clip')
+    f.play('treasure')
+    f.audioplayer('scene-5')
+    for i in range(9,11):
         f.slow_type(story5[i])
     print('\nYou are now against your friend')
     print('\nNote:- Seth is a combat veteran he is very much skilled than you')
@@ -226,14 +268,17 @@ def s5():
         sys.exit()
     else:
         for i in range(29,33):
-            f.slow_type(story5[i])    
+            f.slow_type(story5[i])  
+        f.slow_type('Playing a clip')
+        f.play('Seth opens treasure')  
+        f.audioplayer('scene-5')
         f.slow_type('\nYou are in shock what do you want to do?\n')
         print('Fight or Run\n')
         choice=input()
         if 'run' in choice:
-            f.slow_type('You try to outsmart him and run away but he eventually catches up')
-            f.slow_type('He tears your limbs and starts feeding on you as your alive')
-            f.slow_type('THE END')
+            f.slow_type('\nYou try to outsmart him and run away but he eventually catches up')
+            f.slow_type('\nHe tears your limbs and starts feeding on you as your alive')
+            f.slow_type('\nTHE END')
             sys.exit()
         else:
             for i in range(33,40):
@@ -246,6 +291,7 @@ def s5():
 story6 = story[211:254]
 
 def s6():
+    f.audioplayer('scene-6')
     global story6
     global records
     for i in range(0,9):
@@ -285,7 +331,10 @@ def s6():
         f.slow_type('\nYou return back to your base, to call your crew\n')
         for i in range(37,41):
             f.slow_type(story6[i])
-    f.slow_type(story6[42],0.5)
+    f.slow_type(story6[42],0.4)
+    f.slow_type('Playing a clip')
+    f.play('ending scene')
+    f.audioplayer('scene-6')
     f.slow_type('\nThanks for playing')
     f.slow_type('\nSOLDIER 0F FORTUNE',0.3)
     f.slow_type('\nHope to see you again!!')
@@ -294,11 +343,3 @@ def s6():
     f.clearscreen()
     return
 
-
-
-
-
-
-
-        
-    

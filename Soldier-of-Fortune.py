@@ -10,7 +10,7 @@ f.slow_type('WELCOME TO SOLDIER OF FORTUNE\n',0.3)
 
 with open('Scenario.txt','r') as scene:
     story = scene.readlines()
-
+f.slow_type('Note this game is best enjoyed with full audio or with headphones!!\n')
 f.slow_type('Do you want to view the help section?')
 choice=input()
 if 'ok' in choice or 'y' in choice:
@@ -20,15 +20,15 @@ if 'ok' in choice or 'y' in choice:
         for i in h:
             f.slow_type(i)
 else:
-    f.slow_type('\n Your wish \n')
+    f.slow_type('\n As per your wish, we will continue with the game. \n')
 
 f.slow_type('\n\nBEGIN THE GAME?\n\n',0.3)
 choice=input()
 if 'y' in choice:
-    f.slow_type('\nCool then lets begin\n')
+    f.slow_type('\nSuit up, Soldier!\n')
     f.clearscreen()
 else:
-    f.slow_type('Ok then see you next time')
+    f.slow_type('Ok then, see you next time :)')
     sys.exit()
 
 data=''
@@ -37,6 +37,7 @@ if record.isalnum() and record.startswith('s'):
     print('\nOld data save found want to continue\n')
     move=input()
     if 'no' in move:
+        f.audioplayer('general speech')
         f.clearscreen()
         for i in range(0,4):
             f.slow_type(story[i])
@@ -52,6 +53,7 @@ if record.isalnum() and record.startswith('s'):
         data=record
         f.clearscreen()
 else:
+    f.audioplayer('general speech')
     for i in range(0,4):
         f.slow_type(story[i])
     print()
@@ -96,8 +98,9 @@ while data!='s6':
     if data=='s4':
         s.s5()
         data='s5'
-    if records.read()=='s5':
+    if data=='s5':
         s.s6()
         data='s6'
 
 f.slow_type('THANKS FOR PLAYING')
+sys.exit()

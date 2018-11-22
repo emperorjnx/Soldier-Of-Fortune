@@ -12,8 +12,6 @@ Read the scenario file for the story and how the story gets executed.
 Note: All coding is done using python.
 
 Note:
-You need opencv,playsound installed to run this game
+You need opencv installed to run this game
 anaconda installation
 conda install -c conda-forge opencv
-conda install -c anaconda pip 
-pip install playsound
