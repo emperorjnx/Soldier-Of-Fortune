@@ -50,7 +50,7 @@ if record.isalnum() and record.startswith('s'):
         f.slow_type(story[14])
         print()
     else:
-        data=record
+        data=record[len(record)-2:len(record)]
         f.clearscreen()
 else:
     f.audioplayer('general speech')
