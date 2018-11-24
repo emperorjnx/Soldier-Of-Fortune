@@ -9,6 +9,7 @@ left         - makes him move left
 right        - makes him move right
 look         - makes him look around
 exit         - exit the game
+yes/no       - to enter your choices
 
-You can press the 'q'button if you want to stop a video
+You can press the 'q' button if you want to stop a video
 Enjoy the game!!

@@ -40,7 +40,7 @@ You wonder what to do now
 
 Outcome
 
-You enter the protal and start flying inside and spinning out of control
+You enter the portal and start flying inside and spinning out of control
 You try to leave but the portal doesn't let you leave and you get sucked into it and you start flying inside and spinning out of control.
 
 You see yourself appearing bit by bit and then you have no clue where you are and the portal behind you slowly vanishes. 
@@ -48,7 +48,7 @@ You try to get back to the battle field but it's too late. The portal is gone.
 You are scared and you start to wonder where on earth you are. 
 You look at your surroundings. 
 It still looks a lot like earth but you are dead sure this was not Earth. 
-You start moving forward with you gun.
+You start moving forward with your gun.
 
 1.	You try to find shelter
 2.	You go on looking around the town
@@ -62,11 +62,11 @@ The one building  which is visible to you seems to be a big one made of cemented
 You knock on the door and no one opens the door. 
 So you grip your gun and try to enter the building by breaking the door. 
 It opens and has a creepy noise. 
-You get inside to notice that its really haunted, you notice that it seems to be an old hotel of some sort.
+You get inside to notice that it's really haunted, you notice that it seems to be an old hotel of some sort.
 You start calling and shouting looking for any sort of life existing and you make your way up the stairs. 
 You walk in the corridor to see that it was in ruins, yet there seems to be a weird voice. 
 The same one he heard just before his team was ambushed. 
-you keep your fire arm ready and a human like figure appears but this one is not all human he was a mutant!!!
+You keep your fire arm ready and a human like figure appears but this one is not all human he was a mutant!!!
 Looked like he is in shape to take any one down.
 
 2.
@@ -76,12 +76,12 @@ The one building  which is visible to you seems to be a big one made of cemented
 You knock on the door and no one opens the door. 
 So you grip your gun and try to enter the building by breaking the door. 
 It opens and has a creepy noise. 
-You get inside to notice that its really haunted, you notice that it seems to be an old hotel of some sort.
+You get inside to notice that it's really haunted, you notice that it seems to be an old hotel of some sort.
 You start calling and shouting looking for any sort of life existing and you make your way up the stairs. 
 You walk in the corridor to see that it was in ruins, yet there seems to be a weird voice. 
-The same one he heard just before his team was ambushed. 
+The same one you heard just before your team was ambushed. 
 You keep your fire arm ready and a human like figure appears but this one is not all human.
-Looked like he is in shape to take any one down.
+It looked like it is in shape to take any one down.
 
 
 1.	Talk to him and ask what he wants
@@ -92,7 +92,7 @@ output-1
 	Other than your dead body so when you see him running towards you shoot him down.
 
 You realise that he is not the only one!! 
-You shoot as many creatures like him walk towards you. 
+You shoot as many creatures like him that walk towards you. 
 You realise that you should rather just escape this place instead of wasting your ammo on them. 
 You make your way towards the creepy stairs and then you fall down. 
 You shout in pain and you know to stay alive you have to escape this place. 
@@ -107,15 +107,15 @@ You wonder what is happening.
 
 1.
 
-You finally decide to make an effort to find your fellow mate's.
+You finally decide to make an effort to find your fellow mates.
 
 2.
 
 The monsters break in!!
 You don't know what to do.
-As you try to escape one of the creature's catches you.
+As you try to escape one of the creatures catches you.
 They start tearing you limb by limb!!
-You take your last breath as the monster's start feeding on you as your alive.
+You take your last breath as the monsters start feeding on you as your alive.
 THE END
 
 
@@ -147,38 +147,38 @@ You fill your ammo and then you look around the place.
 You enter the house through a broken window and realise those monsters were hiding behind the door.
 Setting a trap to kill you when you enter through the main door and then you throw a grenade and wait for 3 of them to die.
 As soon as it explodes you make sure that they are dead. 
-You hears more of them approaching you and you kept on shooting them down. 
+You hear more of them approaching you and you kept on shooting them down. 
 You have no choice but to move forward. 
 You go to the attic and find ANOTHER NORMAL HUMAN BEING !!!  
 You are happy but you don't let your guard down because you cannot trust anyone in a battle. 
 He was injured but you could recognise him as one of your fellow soldiers 'Seth'.
 
-	1.	Scare him and shoot few blanks to make sure he is still you buddy Seth and interrogate him
+	1.	Scare him, shoot few blanks to make sure he is still your buddy Seth and interrogate him
 	2.	Put down your weapon and then help him up
 
 	Output
 	1.	
 	'Bang bang bang' shots fired.
 	'Who are you?what are you doing here??'. 
-	He replies "Max is that you , are you serious I'm so glad to see you". 
+	He replies "Max is that you? Are you serious I'm so glad to see you". 
 	You drop your weapon and rush to hug him and make sure he is okay.
 
 	2.
 	You rush to his arms and tell "Seth how on earth is it that you are in a place like this??". 
-	Seth :- "I fell into a portal and I'm stuck here" and he tells the same thing had happened to him.
+	Seth :- "I fell into a portal and I'm stuck here" and he tells what had happened to him.
 	You decide to stick to each other.
 
 Both of you give a summary of each other's encounter with the creatures and he tells you
 " they are all protecting this treasure that is held in the house behind this building" 
 and 
-Seth had been stuck for days and he was all out of ammo just hoping that someone will come and save him. 
-They collect all the ammo that they can get and make their way to the front door. 
+Seth tells that he had been stuck for days and he was all out of ammo just hoping that someone will come and save him. 
+Both of you collect all the ammo that you could get and make your way to the front door. 
 Guns blazing and firing. 
 Hoping that finding the treasure will open a portal to go back home. 
 Seth is taking the lead in the battle ground and you make your way through the house and an underground cave, you see a golden casket in a room.
 
 It brings happiness on both of your faces but suddenly a group of people appear and  Seth is holding a gun to your head now. 
-He tells "I deserve this treasure its all mine and your no one to stop me Max"
+He tells "I deserve this treasure its all mine and you are no one to stop me Max"
 
 1.	Take him down and attack him before he kills you
 2.	Put down your weapon and surrender
@@ -212,15 +212,15 @@ A light so bright that it made your eye hurt so you had to bring your hands up t
 You see normal humans with masks and then you realise that you're tied to the bed. 
 You have no clue what on earth were you doing.  
 You hear voice speaking "subject 88 is coming back to life ".
-"quick call the general tell him we have finally found the treasure and we know how to retrieve it ".
-You look around and see that there is only one masked woman around you doing what looks like keeping track of your vitals.
+"Quick. Call the general. Tell him we have finally found the treasure and we know how to retrieve it ".
+You look around and see that there is only one masked woman around doing what looks like keeping track of your vitals.
 You also notice that you are on an operating table with all kind of wires connected to your head. 
 You see a table where all surgical tools seem to be placed. 
 You pick a scalpel and hide it behind you.
-You notice that all the people over here wore uniforms just like the enemies had on in the battle field.
+You notice that all the people over here wore uniforms just like the enemies in the battle field.
 
-1.	You slit the nurses throat and then make an escape
-2.	You  try to talk to the nurse and understand the situation
+1.	You slit the nurse's throat and then make an escape
+2.	You try to talk to the nurse and understand the situation
 
 Output
 1.	
@@ -238,7 +238,7 @@ You then try to take a lowkey way of running out.
 You try to find a back entrance where you have lesser number of guards.
 But as soon as you come out you set off an alarm by mistake and you realise that you have no weapon. 
 You have guards coming after you and you look back and see that this cemented building was the very building you saw.
-When you had entered the portal, the old hotel. 
+When you had entered the portal, the old hospital. 
 You try to hide in the surrounding as by now, you know this town. 
 You realise that the enemy were using your army to get the treasure of el-derado!!. 
 As they were putting your soldiers in the portal to find the hidden treasure. 
@@ -251,7 +251,7 @@ You make your way out through a secret tunnel ,which you found in the town.
 As soon as you reached the base camp, you let the general know what was happening to all your soldiers. 
 The general thanked you for your service and then he asked you to take rest now as he could handle the rest.
 
-Max realises something strange it was that the general's skin felt exactly as that of the creature's!!
+Max realises something strange. The general's skin felt exactly as that of the creature's!!
 
 THE END
 

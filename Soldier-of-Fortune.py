@@ -87,7 +87,7 @@ while data!='s6':
         choice=input('1 or 2\n')
         if '1' in choice:
             f.slow_type('He might have looked slightly human but he didn\'t want much.\
-            \nOther than your dead body so when you see him running towards you shoot him down.')
+            \nOther than your dead body so when you see him running towards you, you shoot him down.')
         data='s2'
     if data=='s2':
         s.s3()

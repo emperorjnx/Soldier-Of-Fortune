@@ -12,7 +12,7 @@ def s1():
     f.audioplayer('scene-1')
     global story1
     global records
-    move=input('Do you want to enter the battle field\n')
+    move=input('Do you want to enter the battle field?\n')
     if 'y' in move:
         print()
         f.slow_type('Playing a clip')
@@ -22,7 +22,7 @@ def s1():
             f.slow_type(story1[i])
         print()
         time.sleep(2)
-        move = input('Do you want to make your way to your battalion\n')
+        move = input('Do you want to make your way to your battalion?\n')
         if 'y' in move:
             print()
             for i in range(4,14):
@@ -44,7 +44,7 @@ def s1():
             f.slow_type('\nTHE END',0.25)
             sys.exit()
     else:
-        move = input('Do you want to make your way to your battalion\n')
+        move = input('Do you want to make your way to your battalion?\n')
         if 'y' in move or 'ok' in move:
             print()
             for i in range(4,14):
@@ -84,18 +84,18 @@ def s2():
     move=''
     count=0
     move = input('What will you do?\n')
-    while 'look' not in move:        
+    while ('look' not in move) and ('explore' not in move):         
         if 'up' in move or 'down' in move or 'left' in move or 'right' in move:
             print('\nYour afraid to move and have no energy left\n')
         elif 'exit' in move:
-            f.slow_type('fine exiting the game ;)')
+            f.slow_type('You are exiting the game ;)')
             sys.exit()
         else:
             print('\nI can\'t do that')
         count=count+1
         if count>4:
             print('*Try looking around*')
-        move = input('What will you do?\n')
+        move = input('\nWhat will you do?\n')
     f.slow_type('Playing a clip')
     f.play('new world')
     f.audioplayer('scene-2')
@@ -116,7 +116,7 @@ def s2():
             print('You hear some strange sounds\nHence decide its best to move in')
             for i in range(16,25):
                 f.slow_type(story2[i])
-    if '2' in choice or 'around' in choice:  
+    else: 
         for i in range(27,31):
             f.slow_type(story2[i])
         print('How will you get in??')
@@ -145,7 +145,7 @@ def s3():
         f.slow_type(story3[i])
     print('\nDo you want to continue??\n')
     move=input()
-    if 'yes' in move:
+    if 'y' in move:
         f.slow_type('\nYou evetually run out of ammo\n')
         f.slow_type('The aliens kill you\n')
         f.slow_type('Playing a clip')
@@ -291,6 +291,8 @@ def s5():
 story6 = story[211:254]
 
 def s6():
+    f.slow_type('Playing a clip')
+    f.play('portal')
     f.audioplayer('scene-6')
     global story6
     global records
@@ -298,7 +300,7 @@ def s6():
         f.slow_type(story6[i])
     print('\nYour are in the enemies BASE!!')
     time.sleep(2)
-    print('1.	You slit the nurses throat and then make an escape\
+    print('\n1.	You slit the nurses throat and then make an escape\
     \nor\
     \n2.	You  try to talk to the nurse and understand the situation')
     move=input()
@@ -342,4 +344,5 @@ def s6():
     f.slow_type('....',1)
     f.clearscreen()
     return
+
 
